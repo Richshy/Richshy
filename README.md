@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @richshy
-- 👀 I’m interested in scripting with PowerShell, MODX, JavaScript
+- 👋 Hi, I’m @theshy
+- 👀 I’m interested in scripting with PowerShell, MODX, JavaScript, Power Bi and every IT thing that i can get in touch.
 - 🌱 I’m currently learning IT Professinal and programming
 - 💞️ I’m looking to collaborate on PowerShell and more other projects 
 - 📫 How to reach me b.ulrichsoh[@]gmail.com
